@@ -1,0 +1,40 @@
+
+*recentdirs.txt*  
+
+CONTENTS                                        *recentdirs-contents*
+
+1. Introduction ........................... |recentdirs-introduction|
+2. Usage ................................. |recentdirs-usage|
+3. Configuration .......................... |recentdirs-configuration|
+4. Limitations ............................ |recentdirs-limitations|
+5. License ............................... |recentdirs-license|
+
+=============================================================================
+1. INTRODUCTION                                 *recentdirs-introduction*
+
+Automatically tracks and provides quick access to the 10 most recently updated 
+directories, including the ability to restore session files.
+
+
+=============================================================================
+2. USAGE                                                *recentdirs-usage*
+
+Use
+:GetRecentUpdatedDirs (<leader>fD)
+
+
+
+=============================================================================
+3. CONFIGURATION                              *recentdirs-configuration*
+
+
+=============================================================================
+4. LICENSE                                           *recentdirs-license*
+
+This plugin is licensed under the MIT License. See the LICENSE file for more
+details.
+
+=============================================================================
+
+ vim:tw=78:ts=8:ft=help:norl:
+
