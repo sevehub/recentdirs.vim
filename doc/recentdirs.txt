@@ -12,7 +12,7 @@ CONTENTS                                        *recentdirs-contents*
 =============================================================================
 1. INTRODUCTION                                 *recentdirs-introduction*
 
-Automatically tracks and provides quick access to the 10 most recently updated 
+Provides quick access to the 10 most recently updated 
 directories, including the ability to restore session files.
 
 
@@ -20,7 +20,7 @@ directories, including the ability to restore session files.
 2. USAGE                                                *recentdirs-usage*
 
 Use
-:GetRecentUpdatedDirs (<leader>fD)
+:GetRecentUpdatedDirs or (<leader>fD)
 
 
 
